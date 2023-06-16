@@ -1,0 +1,15 @@
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\bin\Debug\net6.0\prep_task.exe
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\bin\Debug\net6.0\prep_task.deps.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\bin\Debug\net6.0\prep_task.runtimeconfig.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\bin\Debug\net6.0\prep_task.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\bin\Debug\net6.0\prep_task.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.csproj.AssemblyReference.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.AssemblyInfoInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.AssemblyInfo.cs
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.csproj.CoreCompileInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\refint\prep_task.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\prep_task.genruntimeconfig.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\prep_task\prep_task\obj\Debug\net6.0\ref\prep_task.dll
